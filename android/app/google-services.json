@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544591359171",
+    "project_id": "drc-gov-track",
+    "storage_bucket": "drc-gov-track.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544591359171:android:ff59a54e70821b4e20c676",
+        "android_client_info": {
+          "package_name": "com.example.drc_gov_track"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4TPibbjH8qZYA-huNXehgp4jLWKN7oIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

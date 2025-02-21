@@ -1,0 +1,49 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "drc-gov-track",
+          "appId": "1:544591359171:android:ff59a54e70821b4e20c676",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "drc-gov-track",
+          "appId": "1:544591359171:ios:dcd42dcf5ef16a2920c676",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "macos": {
+        "default": {
+          "projectId": "drc-gov-track",
+          "appId": "1:544591359171:ios:dcd42dcf5ef16a2920c676",
+          "uploadDebugSymbols": false,
+          "fileOutput": "macos/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "drc-gov-track",
+          "configurations": {
+            "android": "1:544591359171:android:ff59a54e70821b4e20c676",
+            "ios": "1:544591359171:ios:dcd42dcf5ef16a2920c676",
+            "macos": "1:544591359171:ios:dcd42dcf5ef16a2920c676",
+            "web": "1:544591359171:web:15a1e5c25b128f3520c676",
+            "windows": "1:544591359171:web:d5487f3d8a4de3bd20c676"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
